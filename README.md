@@ -1,2 +1,2 @@
 # Exercícios
-## Aqui terá minha jornada no aprendizado do python ##
+ Aqui terá minha jornada no aprendizado do python 
